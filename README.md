@@ -9,4 +9,4 @@ Temas
 
 1. Creacion de repositorio
 
-2. 
+2. programa de python que muestra los nombres de los integrantes
