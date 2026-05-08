@@ -1,0 +1,25 @@
+1.
+ID:1
+Descripcion: Pantalon azul
+precio: 300
+categoria: ropa casual
+2.
+ID:2
+descripcion:pantalon negro
+precio:400
+categoria:ropa formal
+3.
+ID:3
+Descripcion:playera negra
+precio:250
+categoria:ropa casual
+4.
+ID:4
+descripcion:camisa de comprecion
+precio:650
+categoria:deportiva
+5.
+ID:5 
+descripcion:tenis nike negros
+precio:700
+categoria:ropa casual
