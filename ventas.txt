@@ -1,0 +1,8 @@
+1.Pantalon Azul|300.0|2|600.0
+2.Celular Android Motorola|800.0|3|2400.0
+3.Audifonos|80.0|4|320.0
+4.Mesa de Computadora|1400.0|2|2800.0
+5.Camisa Blanca|100.0|1|100.0
+6.Monitor PC|1200.0|2|2400.0
+Pantalon Azul|300.0|2|600.0
+Pantalon Azul|300.0|2|600.0
