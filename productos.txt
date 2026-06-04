@@ -1,0 +1,6 @@
+1|Camisa Blanca|100|Ropa
+2|Pantalon Azul|300|Ropa
+3|Celular Android Motorola|800|Electronicos
+4|Mesa de Computadora|1400|Muebles
+5|Audifonos|80|Electronicos
+6|Monitor PC|1200|Electronicos
