@@ -1,3 +1,0 @@
-Programa python.py
-Logo.png
-Encabezado.png
